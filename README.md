@@ -1,5 +1,5 @@
 ## Hi, I'm Michelle! :relaxed:
 
-## Technical Languages & Tools I've used:
-Java, JavaScript, Python, SQL, TypeScript, Go, HTML, Spring, ReactJs, NodeJs, Express, NoSQL, MySQL, Git, Test Driven Development, Maven, JUnit, Agile & DevOps
+## Languages & Tools I'm using:
+Java, C#, JavaScript, SQL, HTML, Spring Boot, .NET, ReactJs, NodeJs, Express, NoSQL, MySQL, Git, Test Driven Development, Maven, JUnit, Agile & DevOps
 
