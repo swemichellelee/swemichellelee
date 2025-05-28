@@ -1,5 +1,5 @@
-## Hi, I'm Michelle! :relaxed:
+## Hi, I'm Michelle
 
 ## Languages & Tools I'm using:
-Java, Apex, JavaScript, SOQL, SQL, HTML, CSS, Salesforce, Copado, Spring boot, Selenium, MongoDB, Express, React, Node
+Java, JavaScript, Apex, SOQL, SQL, HTML, CSS, Salesforce, Copado, Spring Boot, Selenium, MongoDB, Express, React, Node
 
